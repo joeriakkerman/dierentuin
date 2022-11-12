@@ -20,6 +20,6 @@
   "homepage": "https://github.com/rbernies/dierentuin#readme",
   "devDependencies": {
     "webpack": "^4.41.4",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
